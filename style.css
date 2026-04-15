@@ -7,6 +7,12 @@
 h1 {
   margin-bottom: 24px;
   margin-top: 82px;
+  text-align: center;
+  color: #FFFFFF;
+  font-family:sans-serif;
+  font-size: 96px;
+  font-weight: 600;
+  letter-spacing:-2.67;
 }
 
 .buttons {
@@ -39,4 +45,17 @@ footer {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+
+body {
+  background-color:  #030026;
+  background-image:url(img/Fondo.png) ;
+}y
+
+h2 {
+  font-size: 32px;
+  font-weight: 400;
+  color: #E2E2E2;
+  letter-spacing:  0.67px.;
 }
